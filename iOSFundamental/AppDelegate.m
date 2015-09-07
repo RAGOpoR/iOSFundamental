@@ -7,6 +7,8 @@
 //
 
 #import "AppDelegate.h"
+#import <WSCoachMarksView/WSCoachMarksView.h>
+
 
 @interface AppDelegate ()
 
